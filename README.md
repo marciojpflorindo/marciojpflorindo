@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Márcio and I'm a tech writer with 15+ years of experience. Right now I'm learning full-stack and React in my free time. Hopefully, I'm on a journey to build awesome things.
+
+Right now, I'm working as a communication coordinator at AFS Portugal.
+
 <!--
 **marciojpflorindo/marciojpflorindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
